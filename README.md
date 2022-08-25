@@ -8,6 +8,7 @@
  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="50" /> 
  <img style="margin:10px;" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" height="50" />
  <img style="margin: 10px" src="https://github.com/projectsrows/projectsrows/blob/main/charp.png" alt="C#" height="50" />
+ <img style="margin:10px;" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="Python" height="50" />
  <img style="margin: 10px" src="https://github.com/projectsrows/projectsrows/blob/main/Solidity.png" alt="Solidity" height="50" /> 
  <br />
  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg" alt="Ethereum" width="150" /> 
