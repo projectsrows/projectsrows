@@ -8,7 +8,7 @@
  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="50" /> 
  <img style="margin:10px;" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" height="50" />
  <img style="margin: 10px" src="https://github.com/projectsrows/projectsrows/blob/main/charp.png" alt="C#" height="50" />
- <img style="margin:10px;" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="Python" height="50" />
+ <img style="margin:10px;" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="50" />
  <img style="margin: 10px" src="https://github.com/projectsrows/projectsrows/blob/main/Solidity.png" alt="Solidity" height="50" /> 
  <br />
  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg" alt="Ethereum" width="150" /> 
@@ -47,8 +47,6 @@
 </div> 
 <h2 align="left">:slightly_smiling_face:About Me:</h2> 
 
-- :computer: I'm currently working on .Net
-- :hourglass_flowing_sand:   Love AWS and Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
 - :mailbox_closed: Reach me @ projects.rows+github@gmail.com<br>
@@ -56,6 +54,8 @@
 
 
 <!--
+- :computer: I'm currently working on .Net
+- :hourglass_flowing_sand:   Love AWS and Exploring Google Cloud & Microsoft Azure
 **projectsrows/projectsrows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
