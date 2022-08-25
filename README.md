@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h4 align="left">Welcome to my Github! I'm a Digital Nomad, Blockchain Enthusiast and Software Developer. I also like Python and I'm exploring Cloud Tech ☁️ </samp></h4>
+<h4 align="left">Welcome to my Github! I'm a Digital Nomad, Blockchain Enthusiast and Software Developer. Love APIs and exploring Cloud Tech ☁️ </samp></h4>
 <img src="https://github.com/projectsrows/projectsrows/blob/main/Banner.png" alt="ROWS - software developer">
 
 ## :hammer_and_wrench:My Skill Set  
