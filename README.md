@@ -1,8 +1,8 @@
 ### Hi there 👋
-<h4 align="left">Welcome to my Github! I'm a Digital Nomad, Blockchain Enthusiast and Software Developer. Love APIs and exploring Cloud Tech ☁️ </samp></h4>
+<h4 align="left">Welcome! Meet Digital Nomad, Blockchain Enthusiast and Software Developer. Love APIs and exploring Cloud Tech ☁️ </samp></h4>
 <img src="https://github.com/projectsrows/projectsrows/blob/main/Banner.png" alt="ROWS - software developer">
 
-## :hammer_and_wrench:My Skill Set  
+## :hammer_and_wrench:Skill Set  
 <div align="center">  
  
  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="50" /> 
@@ -48,8 +48,8 @@
 <h2 align="left">:slightly_smiling_face:About Me:</h2> 
 
 - :rocket: Always ready to collaborate for Dev Experiments
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
-- :mailbox_closed: Reach me @ projects.rows+github@gmail.com<br>
+- :zap: Fun fact: Love to attend Meetups for learning & Conferences for Networking
+- :mailbox_closed: Reach@ projects.rows+github@gmail.com<br>
 
 
 
